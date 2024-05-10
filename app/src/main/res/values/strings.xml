@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">HMeteCaliskan_HW3</string>
+    <string name="something_went_wrong">Something went wrong!</string>
+  <string name="title">title</string>
+  <string name="price">price</string>
+  <string name="image_of_products">image of products</string>
+</resources>
